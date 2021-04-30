@@ -22,3 +22,5 @@ Para a realização desse projeto, serão necessários os seguintes componentes:
 * 1 transistor npn
 * Jumpers macho-macho
 
+## ESQUEMÁTICO
+
