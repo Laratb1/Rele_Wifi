@@ -25,3 +25,4 @@ Para a realização desse projeto, serão necessários os seguintes componentes:
 ## ESQUEMÁTICO
 
 ![esquematico1](https://user-images.githubusercontent.com/74369384/116782820-b6c75b00-aa61-11eb-818d-97df7235b43f.png)
+![esquematico2](https://user-images.githubusercontent.com/74369384/116782844-dcecfb00-aa61-11eb-8b49-7fcf50ea74b9.png)
