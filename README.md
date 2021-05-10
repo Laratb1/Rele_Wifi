@@ -18,8 +18,6 @@ Tendo em vista esse cenário recente e claramente promissor de automatização r
 Para a realização desse projeto, serão necessários os seguintes componentes:
 * 1 nodeMCU
 * 1 módulo relé 1 canal 5V
-* 2 resistores (100k e 1k)
-* 1 transistor npn
 * Jumpers macho-macho
 
 ## ESQUEMÁTICO
