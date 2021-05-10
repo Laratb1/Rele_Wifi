@@ -24,4 +24,4 @@ Para a realização desse projeto, serão necessários os seguintes componentes:
 
 ## ESQUEMÁTICO
 
-
+![WhatsApp Image 2021-05-10 at 10 40 15](https://user-images.githubusercontent.com/74369384/117688086-d7dd2980-b18e-11eb-8501-8ae6145b9e46.jpeg)
