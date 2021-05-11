@@ -112,4 +112,8 @@ void loop() {
 
 ### APLICATIVO
 
+![image](https://user-images.githubusercontent.com/72027697/117895676-43112380-b295-11eb-95b8-7e4843a388c9.png)
 
+# VIDEO DO PROJETO
+
+https://www.youtube.com/watch?v=H7E2zbMrfUE 
