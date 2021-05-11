@@ -10,7 +10,7 @@ Criado por JOSÉ VITOR ZORZAL, LARA TAGARRO, MILLA PEREIRA
 
 ## OBJETIVO
 
-Tendo em vista esse cenário recente e claramente promissor de automatização residencial, nosso grupo decidiu realizar como projeto um dispositivo que possa auxiliar nessa automatização e ser controlado via Wifi, se baseando no conceito de Internet das Coisas. Sendo assim, temos como objetivo o desenvolvimento de um módulo relé, que com o auxílio de uma placa nodeMCU possa ser controlado via Wifi atráves de um aplicativo Mobile desenvolvido na plataforma Blynk ou App Inventor. Com isso, para demonstrar o funcionamento do módulo relé, Wifi vamos apresentá-lo controlando uma lâmpada, ligando-a e desligando-a através do aplicativo Mobile.
+Tendo em vista esse cenário recente e claramente promissor de automatização residencial, nosso grupo decidiu realizar como projeto um dispositivo que possa auxiliar nessa automatização e ser controlado via Wifi, se baseando no conceito de Internet das Coisas. Sendo assim, temos como objetivo o desenvolvimento de um módulo relé, que com o auxílio de uma placa nodeMCU possa ser controlado via Wifi atráves de um aplicativo Mobile desenvolvido na plataforma App Inventor. Com isso, para demonstrar o funcionamento do módulo relé, Wifi vamos apresentá-lo controlando uma lâmpada, ligando-a e desligando-a através do aplicativo Mobile.
 
 
 ## MATERIAIS
