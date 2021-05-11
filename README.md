@@ -28,7 +28,7 @@ Para a realização desse projeto, serão necessários os seguintes componentes:
 ## IMPLEMENTAÇÃO
 ### CÓDIGO
 
-'''
+```
 #include <ESP8266WiFi.h>
 #include <DNSServer.h> 
 #include <ESP8266WebServer.h> 
@@ -108,6 +108,8 @@ void loop() {
   delay(1);
   Serial.println("Client disonnected");
 }
-'''
+```
 
 ### APLICATIVO
+
+
